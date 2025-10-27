@@ -1,0 +1,10 @@
+Package: Friedman
+Title: Simple Finance Calculation Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Robert", "Walsh", , "robert.walsh@usf.edu", role = c("aut", "cre"))
+Description: The Friedman R package provides a straightforward suite of functions for performing common financial calculations, making it an excellent educational tool or quick-reference utility. It includes core functions for analyzing the time value of money, such as computing future and present values, as well as calculating net present value and loan payments.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3

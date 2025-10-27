@@ -34,4 +34,5 @@ build("Friedman")
 
 #Initialize a Git repo in Friedman/, commit all files.
 #Create a new GitHub repository named Friedman and push your local repo.
+use_github()
 #Ensure DESCRIPTION and minimal files (R/, NAMESPACE) are present in GitHub.
